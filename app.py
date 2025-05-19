@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 # CSV file to store data
-DATA_FILE = "purchase_history.csv"
+DATA_FILE = r"https://docs.google.com/spreadsheets/d/1Gg2bd5mj-Nqo7Ffag4dnvY5FdgAs-uzW8rrJ0OuD_0c/edit?gid=0#gid=0"
 
 # Load or initialize data
 def load_data():
